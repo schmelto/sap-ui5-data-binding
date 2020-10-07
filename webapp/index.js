@@ -17,7 +17,9 @@ sap.ui.require([
 				city: "Walldorf",
 				zip: "69190",
 				country: "Germany"
-			}
+			},
+			salesAmount: 12345.6789,
+			currencyCode: "EUR"
 
 		});
 
