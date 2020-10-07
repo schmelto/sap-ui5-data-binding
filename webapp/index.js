@@ -12,7 +12,6 @@ sap.ui.require([
 			firstName: "Harry",
 			lastName: "Hawk",
 			enabled: true,
-			panelHeaderText: "Data Binding Basics"
 
 		});
 
