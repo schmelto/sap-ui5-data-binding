@@ -9,5 +9,19 @@
     "@openui5/sap.ui.core": "^1",
     "@openui5/sap.ui.layout": "^1",
     "@openui5/themelib_sap_belize": "^1"
-  }
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schmelto/sap-ui5-data-binding.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schmelto/sap-ui5-data-binding/issues"
+  },
+  "homepage": "https://github.com/schmelto/sap-ui5-data-binding#readme"
 }
