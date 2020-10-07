@@ -1,13 +1,13 @@
 {
     "_version": "1.1.0",
 	
-	"start_url": "<startUrl>",
+	"start_url": "index.html",
 	
     "sap.app": {
         "_version": "1.1.0",
-        "id": "<id>",
+        "id": "sap.ui.demo.db",
         "type": "application",
-        "i18n": "<i18nPathRelativeToManifest>",
+        "i18n": "i18n/i18n.properties",
         "applicationVersion": {
             "version": "<version>"
         },
@@ -28,14 +28,6 @@
     },
     "sap.ui": {
         "_version": "1.1.0",
-        "icons": {
-            "icon": "<icon>",
-            "favIcon": "<favIcon>",
-            "phone": "<phone>",
-            "phone@2": "<phone@2>",
-            "tablet": "<tablet>",
-            "tablet@2": "<tablet@2>"
-        },
         "deviceTypes": {
             "desktop": true,
             "tablet": true,
@@ -51,12 +43,12 @@
         "resources": {
             "js": [
                 {
-                    "uri": "<uri>"
+                    "uri": ""
                 }
             ],
             "css": [
                 {
-                    "uri": "<uri>",
+                    "uri": "css/style.css",
                     "id": "<id>"
                 }
             ]
