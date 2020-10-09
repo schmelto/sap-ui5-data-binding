@@ -24,6 +24,7 @@ sap.ui.require([
 				zip: "69190",
 				country: "Germany"
 			},
+			priceTreshold: 20,
 			salesAmount: 12345.6789,
 			currencyCode: "EUR"
 
