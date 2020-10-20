@@ -17,3 +17,13 @@ npm install
 ```
 ui5 serve
 ```
+
+## More
+
+```
+npm install --global @ui5/cli
+
+npm init --yes
+
+ui5 init    
+```
